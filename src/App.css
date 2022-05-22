@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url("./assets/texturewoodwallgreen.jpg");
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+  margin: 0;
+}
+.status {
+  background: black;
+  padding: 0.5rem;
+  width: 16rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom: 1rem;
+}
